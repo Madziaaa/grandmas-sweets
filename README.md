@@ -1,2 +1,1 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+This project was made for learning purposes with the help of a tutorial
